@@ -1,0 +1,9 @@
+torch
+numpy
+seaborn
+scipy
+scikit-learn
+prettytable
+tdqm
+tensorboard
+torchvision
