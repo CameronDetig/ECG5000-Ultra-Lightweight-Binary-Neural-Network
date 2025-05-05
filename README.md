@@ -11,3 +11,5 @@ Uses the ECG5000 Dataset from https://www.timeseriesclassification.com/descripti
 A version of this dataset is incuded under the ECG_5000_Dataset folder.
 
 Create a .venv and install all libraries in requirements.txt
+
+Changes to code made by Cameron Detig
