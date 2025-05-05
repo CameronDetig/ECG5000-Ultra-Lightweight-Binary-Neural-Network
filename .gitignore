@@ -1,5 +1,7 @@
 # Ignore the run folder and all its contents
-run/
+runs/
 
 # Ignore the __pycache__ folder and all its contents
-__pycache__/
+utils/__pycache__/
+
+.DS_Store
