@@ -1,0 +1,5 @@
+# Ignore the run folder and all its contents
+run/
+
+# Ignore the __pycache__ folder and all its contents
+__pycache__/
